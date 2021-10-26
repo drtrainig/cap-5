@@ -1,4 +1,4 @@
-package com.itfactory.componente.stocare;
+package itfactory.componente;
 
 public class MemorieSSD
 {

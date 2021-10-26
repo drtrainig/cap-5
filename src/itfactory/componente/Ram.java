@@ -1,4 +1,4 @@
-package com.itfactory.componente.ram;
+package itfactory.componente;
 
 public class Ram
 {
