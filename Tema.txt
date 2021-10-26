@@ -1,0 +1,72 @@
+Problema 1-----------------------------------------------------------------------------------------------
+Se dau resursele din proiectul TemaCapitolul5:
+
+Se cer urmatoarele implementari.
+
+1.Sa se ajusteze clasa Laptop in care sa se adauge doua proprietati. Una va fi de tip Ram, iar cealalata va fi de tipul MemorieSSD.
+Ambele proprietati vor fi declarate cu modificatorul de access "private".
+2. Ajustati corespunzator constructorii (in cazul in care sunt) si implementati getters & setters pentru noile valori. Atentie: Unde nu s-au implementat pentru proprietatile din clasa, implementati corespunzator.
+3. in clasa com.itfactory.Main, in metoda main se va crea un obiect de tipul Laptop si se vor atribui valori tutoror proprietatilor, corespunzator. (Atentie: Unde aveti constructor cu parametrii, folositi-l. Pentru simplitate, daca doriti va puteti crea constructori cu parametri in clase).
+4. Se vor afisa toate detaliile unui obiect creat de tipul Laptop.
+
+Exemplu de afisare:
+Detalii laptop:
+Marca: Asus
+Culoare: Negru
+Dimensiune Ecran: 15.6
+
+Memorie RAM:
+Tip memorie RAM: DDR3
+Unitate de Masura Memorie RAM: GB
+Capacitate memorie RAM: 16
+
+Spatiu de stocare SSD:
+Capacitate stocare SSD: 256
+Unitate de masura stocare SSD: GB
+
+Problema 2-----------------------------------------------------------------------------------------------
+Creati un proiect cu titlul FormeGeometrice in care se cere sa se implementeze urmatoarele cerinte:
+1. Veti avea pachetul de baza com.itfactory
+TRIUNGHI:
+2. Se va crea o clasa Triunghi impreuna cu 3 proprietati, si anume laturile acestuia. (Pentru fiecare latura definiti un field in clasa)
+3. Constructorul va fi ales la alegere (Daca o sa implementati constructor cu parametri, nu va fie nevoie de setters si getters)
+4. Sa se creeze o metoda in clasa Triunghi care returneaza perimetrul triunghiului calculat.
+PATRAT:
+5. Se va crea o clasa Patrat impreuna cu o proprietate care este dimensiunea unei laturi.
+6. Se cere sa se creeze doua metode in clasa, una care calculeaza perimetrul unui patrat, iar unul care calculeaza aria unui patrat.
+(Perimetrul este suma laturilor unui patrat iar aria este latura la patrat. Atentie: Patratul are toate laturile egale).
+DREPTUNGHI:
+5. Se va crea o clasa Dreptunghi impreuna cu doua proprietati care reprezinta lungimea si latimea
+6. Se cere sa se creeze doua metode in clasa, una care calculeaza perimetrul unui dreptunghi, iar unul care calculeaza aria unui dreptunghi.
+(Perimetrul este suma latimilor si a lungimilor unui dreptunghi iar aria este produsul lungimii cu cel al latimii. Atentie: Dreptunghiul are cate 2 laturi egale).
+
+ATENTE: Toate metodele create vor returna valorile calculate dupa caz.
+Se va crea o clasa Main unde va fi metoda main. In acea metoda main din clasa Main veti instantia obiectele cerute si veti folosi obiectele pentru a calcula, dupa caz, perimetrele, ariile.
+Se vor afisa tot in metoda main din clasa Main.
+
+Problema 3---------------------------------------------------------------------------------------------------
+Creati un proiect cu titlul ReparatieAuto in care se cere sa se implementeze urmatoarele cerinte:
+1. Veti avea pachetul de baza com.itfactory
+2. In pachetul de baza com.itfactory veti crea un pachet numit "componente"
+
+Clase pe care va trebui sa le creati in pachetul componente: clasa Motor si clasa CutieDeViteze
+1.Clasa Motor cu proprietatile: marcaProductie (numele marcii de productie), capacitateMotor, pretDeVanzare. Va trebui sa definiti voi corect tipurile de date.
+2.Clasa CutieDeViteze cu proprietatile: marcaProductie (numele marcii de productie), pretVanzare, automata (Va trebui sa folositi un tip de data simplu care sa ateste daca cutia este automata sau nu).
+
+3. Clasa Reparatie care va fi creata in pachetul com.itfactory
+Clasa Reparatie va avea ca proprietati: marcaProductie, costReparatie, Motor, CutieDeViteze.
+Se vor crea constructori (Daca o sa implementati constructor cu parametri, nu va fie nevoie de setters si getters)
+In clasa Reparatie se va crea o metoda care va verifica daca marca de productie este aceeasi cu cea a motorului (Se va returna valoarea daca este egal sau nu. Atentie la verificarea egalitatii)
+In clasa Reparatie se va crea o metoda care va verifica daca marca de productie este aceeasi cu cea a cutiei de viteze (Se va returna valoarea daca este egal sau nu. Atentie la verificarea egalitatii)
+
+4. Se va crea o metoda main in pachetul com.itfactory in care se va crea un obiect de tipul clasei Reparatie, de asemenea si pentru Motor / Cutie de viteze care vor fi parte din obiectul clasei Reparatie.
+
+Cerintele programului:
+1. Daca marcaDeProductie este aceeasi cu a motorului si a cutiei de viteze, sa se calculeze costul de reparatie.
+2. Daca cutia de viteze este automata, se va adauga la pretul final valoarea de 2150.75
+3. Daca marca de productie nu este aceeasi cu a motorului si a cutiei de viteze afisati un mesaj: "Costul de productie nu poate fi stabilit. Componente gresite"
+
+
+ATENTE: Toate metodele create vor returna valorile calculate dupa caz.
+Se va crea o clasa Main unde va fi metoda main. In acea metoda main din clasa Main veti instantia obiectele cerute si veti folosi obiectele pentru a calcula, dupa caz cerinetele.
+Se vor afisa tot in metoda main din clasa Main.
