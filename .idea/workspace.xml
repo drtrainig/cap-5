@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dff4ab90-92fa-409f-a5bc-29f940851b4e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cap-5.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/itfactory/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/itfactory/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/itfactory/componente/ram/Ram.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/itfactory/componente/ram/RamMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/itfactory/componente/stocare/MemorieSSD.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/itfactory/electronice/Laptop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/itfactory/electronice/LaptopMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/itfactory/servicii/Geometrie.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/itfactory/servicii/Operatii.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="20dsIKkUpvgfmdxescIqE5vYnjK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+  </component>
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="LaptopMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itfactory.electronice.LaptopMain" />
+      <module name="cap-5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itfactory.electronice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ItFactory.Main" />
+      <module name="cap-5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ItFactory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itfactory.Main" />
+      <module name="cap-5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itfactory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.LaptopMain" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dff4ab90-92fa-409f-a5bc-29f940851b4e" name="Default Changelist" comment="" />
+      <created>1636385717252</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636385717252</updated>
+      <workItem from="1636385720193" duration="7044000" />
+      <workItem from="1636999299245" duration="1146000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1750" height="323" key="GridCell.Tab.0.bottom" timestamp="1637000142366">
+      <screen x="0" y="25" width="1792" height="1036" />
+    </state>
+    <state width="1750" height="323" key="GridCell.Tab.0.bottom/1792.25.1920.1055/0.25.1792.1036@0.25.1792.1036" timestamp="1637000142366" />
+    <state width="1750" height="323" key="GridCell.Tab.0.center" timestamp="1637000142365">
+      <screen x="0" y="25" width="1792" height="1036" />
+    </state>
+    <state width="1750" height="323" key="GridCell.Tab.0.center/1792.25.1920.1055/0.25.1792.1036@0.25.1792.1036" timestamp="1637000142365" />
+    <state width="1750" height="323" key="GridCell.Tab.0.left" timestamp="1637000142364">
+      <screen x="0" y="25" width="1792" height="1036" />
+    </state>
+    <state width="1750" height="323" key="GridCell.Tab.0.left/1792.25.1920.1055/0.25.1792.1036@0.25.1792.1036" timestamp="1637000142364" />
+    <state width="1750" height="323" key="GridCell.Tab.0.right" timestamp="1637000142365">
+      <screen x="0" y="25" width="1792" height="1036" />
+    </state>
+    <state width="1750" height="323" key="GridCell.Tab.0.right/1792.25.1920.1055/0.25.1792.1036@0.25.1792.1036" timestamp="1637000142365" />
+    <state x="405" y="173" key="SettingsEditor" timestamp="1636388328328">
+      <screen x="0" y="25" width="1792" height="1036" />
+    </state>
+    <state x="405" y="173" key="SettingsEditor/1792.25.1920.1055/0.25.1792.1036@0.25.1792.1036" timestamp="1636388328328" />
+    <state x="302" y="142" key="new project wizard" timestamp="1636561179718">
+      <screen x="0" y="25" width="1792" height="1036" />
+    </state>
+    <state x="302" y="142" key="new project wizard/1792.25.1920.1055/0.25.1792.1036@0.25.1792.1036" timestamp="1636561179718" />
+  </component>
+</project>
